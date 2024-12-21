@@ -23,7 +23,7 @@ pipeline {
                 git(
                     branch: 'main',
                     credentialsId: 'github',
-                    url: 'https://github.com/Abdelaali114/testing.git'
+                    url: 'https://github.com/Abdelaali114/done.git'
                 )
             }
         }
